@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VshivayaGnida 
-- 👀 I’m interested in programming on Python
+- 👀 I’m interested in programming on C# and Python
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on with people who are ready to support
 - 📫 How to reach me VK - https://vk.com/kola321
