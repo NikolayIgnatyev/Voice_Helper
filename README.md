@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VshivayaGnida 
+- 👋 Hi, I’m @NikolayIgnatyev 
 - 👀 I’m interested in programming on C# and Python
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on with people who are ready to support
